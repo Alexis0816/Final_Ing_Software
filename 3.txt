@@ -1,0 +1,4 @@
+i) El unicó cambio seria antes de realizar un pago para que este no exceda el valor de 200
+ii) Para el caso fallido seria ver si es que cuando se se quiere realizar un pago superior a 200, saldría un mensaje de "Monto excedido" y para el caso de exitó es ver si
+un monto de 200 exacto menor si se puede realizar
+iii)
